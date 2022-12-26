@@ -99,34 +99,24 @@ p {
   .homepage-image {
     display: none;
   }
-}
 
-@media (max-width: 600px) {
   h2 {
     font-size: 24px;
     text-align: center;
   }
-}
 
-@media (max-width: 600px) {
   h1 {
     font-size: 50px;
   }
-}
 
-@media (max-width: 600px) {
   h3 {
     font-size: 24px;
   }
-}
 
-@media (max-width: 600px) {
   p {
     text-align: center;
   }
-}
 
-@media (max-width: 600px) {
   .project-link {
     display: block;
     text-align: center;
